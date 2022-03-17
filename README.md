@@ -2,4 +2,4 @@
 Many real-world functions are defined over both categorical and continuous variables. To optimize such functions, we propose a new method that encodes the categorical variables as a continuous variables, where in each category corresponds to function value.
 
 ![avatar](https://github.com/WholeG/Bayesian-Optimisation-over-Categorical-Inputs-with-Target-Encoding-Methods/pics/mlp_hartmann.pdf )
-![avatar](https://github.com/WholeG/Bayesian-Optimisation-over-Categorical-Inputs-with-Target-Encoding-Methods/blob/main/pics/mlp_hartmann.pdf)
+![avatar](https://github.com/WholeG/Bayesian-Optimisation-over-Categorical-Inputs-with-Target-Encoding-Methods/blob/main/pics/MLP_performance.jpg)
